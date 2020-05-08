@@ -1,7 +1,6 @@
 <img src="IMG/keyspylogo.png" width = "250" length = "600">
                                                 
                                                 
-A Open-Source Key-Spy for Windows 10 written in C++
 
 ## About
 
@@ -17,4 +16,4 @@ Key-SPY is a hidden application that logs what you type in your computer. We are
 
 
 
-[Support](https://discord.gg/4at2GuG)
+__[Support]__ (https://discord.gg/4at2GuG)
