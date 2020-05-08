@@ -1,4 +1,4 @@
-<img src="IMG/keyspy.png" width = "200" length = "600">
+<img src="IMG/keyspylogo.png" width = "200" length = "600">
 
 # Key Spy                                                                                        
 A Open-Source Key-Spy for Windows 10 written in C++
@@ -13,7 +13,7 @@ Key-SPY is a hidden application that logs what you type in your computer. We are
 
 
 
-t
+
 
 
 
