@@ -1,5 +1,6 @@
-<img src="IMG/keyspylogo.png" width = "200" length = "600">
-                                                                                      
+<img src="IMG/keyspylogo.png" width = "250" length = "600">
+                                                
+                                                
 A Open-Source Key-Spy for Windows 10 written in C++
 
 ## About
