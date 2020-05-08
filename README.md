@@ -9,7 +9,7 @@ Key-SPY is a hidden application that logs what you type in your computer. We are
 <br />
 <br />
 <br />
-Creator -<p>@WitnessDevelops<a href="http://www.google.com">Google</a>?<br /></p>
+Creator -<p><a href="https://github.com/WitnessDevelops">@WitnessDevelops</a>?<br /></p>
 Contributor [Sxmurai](https://github.com/Sxmurai)
 <br />
 <br />
