@@ -16,4 +16,4 @@ Key-SPY is a hidden application that logs what you type in your computer. We are
 
 
 
-__[Support]__ (https://discord.gg/4at2GuG)
+__[Support]__ (https://discord.gg/4at2GuG) __[Contributors]__ (
